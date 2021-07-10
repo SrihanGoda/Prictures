@@ -9,14 +9,17 @@ body{
 #title{
     font-size:100px
 }
-image2{
+.image2{
       Text-align:center
         width:600px
         height:400px
 }
-image3{
+.image3{
       Text-align:center
         width:600px
         height:400px
+}
+p{
+    Font-size:50px
 }
 
